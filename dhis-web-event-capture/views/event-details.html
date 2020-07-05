@@ -1,0 +1,42 @@
+<table class="dhis2-list-table-striped">        
+    <tbody>
+        <tr ng-if="selectedProgramStage.preGenerateUID && currentEvent['uid']">
+            <td>
+                {{'event_uid'| translate}}
+            </td>
+            <td>
+                <input type="text" ng-disabled="true" ng-model="currentEvent['uid']" class="form-control">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                {{selectedProgramStage.executionDateLabel ? selectedProgramStage.executionDateLabel : 'incident_date'| translate }}<span class="required">*</span>
+            </td>
+            <td>
+                <input type="text"
+                       ng-disabled="model.editingDisabled || !hasDataWrite()"
+                       ng-attr-placeholder="{{dhis2CalendarFormat.keyDateFormat}}"
+                       d2-date
+                       max-date='model.maxDate'
+                       min-date='model.minDate'
+                       ng-model="currentEvent.eventDate"
+                       ng-required="true"                            
+                       d2-date-validator
+                       name="eventDate"
+                       ng-change="verifyExpiryDate()"
+                       input-field-id='eventDate'
+                       class="form-control">
+                <div ng-messages="outerForm.eventDate.$error" ng-if="interacted(outerForm.eventDate)" class="required" ng-messages-include="../dhis-web-commons/angular-forms/error-messages.html">                                         
+                </div>
+            </td>
+        </tr>
+        <tr ng-if="selectedProgramStage.captureCoordinates">
+            <td>
+                {{'coordinate' | translate}}
+            </td>
+            <td>
+                <d2-map d2-object="currentEvent" d2-disabled="model.editingDisabled || !hasDataWrite()" d2-coordinate-format="'COORDINATE'"></d2-map>
+            </td>            
+        </tr>
+    </tbody>
+</table>

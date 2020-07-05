@@ -1,0 +1,22 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "..",
+      "auth": "admin:district",
+      "devHref": "http://localhost:8080"
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS2 event visualizer app",
+  "version": "29.0.18",
+  "description": "Event charts app",
+  "developer": {
+    "name": "DHIS2 visualization team"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Tue Nov 19 2019 15:46:24 GMT+0000 (UTC)"
+}

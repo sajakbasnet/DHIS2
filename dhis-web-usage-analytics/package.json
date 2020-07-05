@@ -1,0 +1,6 @@
+{
+  "name": "usage-analytics-app",
+  "description": "DHIS2 web app for usage statistics",
+  "license": "BSD-3-Clause",
+  "version": "29.0.0"
+}

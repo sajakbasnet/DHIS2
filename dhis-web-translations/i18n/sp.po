@@ -1,0 +1,71 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-13T08:46:08.254Z\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.0.0b3\n"
+
+msgid "Could not locate that type of Object"
+msgstr ""
+
+msgid "Select an Object Type"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Target Locale"
+msgstr ""
+
+msgid "Filter By"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Translated"
+msgstr ""
+
+msgid "Untranslated"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "First page"
+msgstr ""
+
+msgid "Previous page"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "Final page"
+msgstr ""
+
+msgid "Short name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Form name"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "No records available to translate."
+msgstr ""

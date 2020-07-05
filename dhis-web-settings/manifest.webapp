@@ -1,0 +1,22 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS 2 System Settings Management",
+  "version": "29.0.3",
+  "description": "Settings management application for DHIS2",
+  "developer": {
+    "name": "Nicolay Ramm",
+    "email": "nicolay@dhis2.org",
+    "url": "https://www.dhis2.org"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Tue Nov 19 2019 16:09:22 GMT+0000 (UTC)"
+}

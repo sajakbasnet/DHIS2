@@ -1,0 +1,6 @@
+{
+  "name": "menu-management-app",
+  "description": "Menu management app for DHIS 2",
+  "license": "BSD-3-Clause",
+  "version": "29.0.0"
+}

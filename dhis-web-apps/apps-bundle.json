@@ -1,0 +1,23 @@
+[
+    "https://github.com/d2-ci/app-management-app#4a0910dac9e3e2b0dda325f2ab9ec8b5524a4c6a",
+    "https://github.com/d2-ci/cache-cleaner-app#59c136160c7ab3cd9904c5f9152f784df7167689",
+    "https://github.com/d2-ci/charts-app#05f8bcfe7940ab8492b8bd357196fec5b0760cb6",
+    "https://github.com/d2-ci/core-resource-app#c775b9be90c10cc81b6811371af3bd353f11a408",
+    "https://github.com/d2-ci/dashboards-app#990246b11cbe8ed9efad2c301e115dfa5c2a3626",
+    "https://github.com/d2-ci/datastore-app#0ca92670ad5115faaad1d2af81047caf1e529585",
+    "https://github.com/d2-ci/event-capture-app#f5d04ea6e8861092a97c3b572ff32ffddae66dcf",
+    "https://github.com/d2-ci/event-charts-app#b5e3df2a004ef6034bfdbf255d13fcddb03f46f3",
+    "https://github.com/d2-ci/event-reports-app#31ada178865701179058f377d1b4c160dfec3e44",
+    "https://github.com/d2-ci/gis-app#4d2ecd99a306b8bfe8d2c51c336862cfc95cf4d8",
+    "https://github.com/d2-ci/interpretation-app#b3506d9d0d28e243b740f97853115dc23d3966c7",
+    "https://github.com/d2-ci/maintenance-app#bfa8f06557b9e9a6e382b45b4968c0b02e2b3908",
+    "https://github.com/d2-ci/maps-app#ac7f2e4b0446100d6bd6d771436c1ae123312d64",
+    "https://github.com/d2-ci/menu-management-app#c3fc9509b776d2992d3d8954620b5ada46f95ab4",
+    "https://github.com/d2-ci/pivot-tables-app#0cdf16287452c5bb393f8ca5ea947a79155ebebc",
+    "https://github.com/d2-ci/scheduler-app#6b41c406814d075825aa16b5ad05b95634942473",
+    "https://github.com/d2-ci/settings-app#d0aed67dab3732d8c666bb1277eadb3fd92ca7e8",
+    "https://github.com/d2-ci/tracker-capture-app#84b3be2997ed02692c9d8bcb75417f5c8690f123",
+    "https://github.com/d2-ci/translations-app#1a16e011ba5c0296c9d5809c8cece0e7d11e3f0d",
+    "https://github.com/d2-ci/usage-analytics-app#65490a53366574a2fd474743ad2a73129f70994d",
+    "https://github.com/d2-ci/user-profile-app#ac9134109d14a07806e7bc0237b6de228c2cf781"
+]

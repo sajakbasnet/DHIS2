@@ -1,0 +1,6 @@
+{
+  "name": "translations-app",
+  "description": "DHIS2 Translation/Internationalization App",
+  "license": "BSD-3-Clause",
+  "version": "26.0.15"
+}

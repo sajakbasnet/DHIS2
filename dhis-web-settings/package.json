@@ -1,0 +1,6 @@
+{
+  "name": "settings-app",
+  "description": "Settings management application for DHIS2",
+  "license": "BSD-3-Clause",
+  "version": "29.0.3"
+}

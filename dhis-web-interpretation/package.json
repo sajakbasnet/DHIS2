@@ -1,0 +1,14 @@
+{
+  "name": "interpretation-app",
+  "version": "29.0.0",
+  "description": "Interpretations app",
+  "main": "src/index.html",
+  "keywords": [
+    "DHIS2",
+    "App",
+    "Interpretation"
+  ],
+  "author": "James Chang",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/dhis2/interpretation-app#readme"
+}

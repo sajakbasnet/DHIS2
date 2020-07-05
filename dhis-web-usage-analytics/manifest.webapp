@@ -1,0 +1,20 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "usage-analytics-app",
+  "version": "29.0.0",
+  "description": "DHIS2 web app for usage statistics",
+  "developer": {
+    "name": "Julie Hill Roa & Yrjan Fraschetti"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "manifest_generated_at": "Mon Sep 02 2019 17:50:18 GMT+0000 (UTC)"
+}

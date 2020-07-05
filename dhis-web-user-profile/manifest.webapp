@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "DHIS2 User Profile Management",
+  "version": "29.0.0",
+  "description": "User Profile App for DHIS2",
+  "developer": {
+    "name": "Adheesh Bhatia"
+  },
+  "icons": {
+    "48": "icon.png"
+  },
+  "dhis2": {
+    "apiVersion": "28"
+  },
+  "manifest_generated_at": "Tue Oct 23 2018 05:54:00 GMT+0000 (UTC)"
+}

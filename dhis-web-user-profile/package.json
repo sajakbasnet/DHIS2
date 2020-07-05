@@ -1,0 +1,13 @@
+{
+  "name": "user-profile-app",
+  "version": "29.0.0",
+  "description": "User Profile App for DHIS2",
+  "main": "src/index.html",
+  "keywords": [
+    "DHIS2",
+    "App"
+  ],
+  "author": "Adheesh Bhatia",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/adhbh/dhis-user-profile-app"
+}

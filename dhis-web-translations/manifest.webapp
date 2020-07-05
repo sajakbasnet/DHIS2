@@ -1,0 +1,23 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "Translations App",
+  "version": "26.0.15",
+  "description": "DHIS2 Translation/Internationalization App",
+  "developer": {
+    "name": "Gregory Wilson",
+    "email": "gwilson@baosystems.com"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon.png",
+    "128": "icon-128.png"
+  },
+  "manifest_generated_at": "Mon Sep 02 2019 16:06:18 GMT+0000 (UTC)"
+}

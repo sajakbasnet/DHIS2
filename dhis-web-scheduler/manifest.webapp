@@ -1,0 +1,21 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": ".."
+    }
+  },
+  "appType": "APP",
+  "name": "Scheduler",
+  "version": "29.0.0",
+  "description": "Create, modify and delete server jobs",
+  "icons": {
+    "48": "icon.png"
+  },
+  "developer": {
+    "name": "Kjetil Svalestuen",
+    "company": "DHIS2"
+  },
+  "manifest_generated_at": "Tue Oct 23 2018 10:06:41 GMT+0000 (UTC)"
+}

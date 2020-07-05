@@ -1,0 +1,6 @@
+{
+  "name": "cache-cleaner-app",
+  "description": "Cache Cleaner app for DHIS2",
+  "license": "BSD-3-Clause",
+  "version": "29.0.3"
+}
